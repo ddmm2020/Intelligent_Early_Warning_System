@@ -25,9 +25,10 @@ inference.py is used to fast detection without visualization and send the visual
 1. Person detection and human instance segmentation.
 2. Use Human Pose Estimation Algorithm to generate template actions.
 3. Quantify the difference between two actions by visible-L2 which is I proposed to slove the problem of recognition of human actions.
-4. Track the movement of people by MaskIOU.
-5. Use segmentation technology to capture valuable pixels and reduce the data which is transported by network.
-6. Use RLE(run-length encoding) to save person mask image.
+4. Analyze the crew is on the right position or not.
+5. Track the movement of people by MaskIOU.
+6. Use segmentation technology to capture valuable pixels and reduce the data which is transported by network.
+7. Use RLE(run-length encoding) to save person mask image.
 
 # Upcoming Feature
 1. Use ML technology to discover the danger of ships by time,boat number,person actions and so on.
@@ -36,6 +37,7 @@ inference.py is used to fast detection without visualization and send the visual
 4. Support more backbone and more model head.  
 
 # EDA 
+
 <div  align="center">    
   <img src="./images/image.svg" width = "380" height = "260"   alt="image" align=center />
 </div>
