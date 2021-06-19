@@ -29,12 +29,16 @@ inference.py is used to fast detection without visualization and send the visual
 5. Track the movement of people by MaskIOU.
 6. Use segmentation technology to capture valuable pixels and reduce the data which is transported by network.
 7. Use RLE(run-length encoding) to save person mask image.
+8. Use HashTable to match the template action faster,the key of HashTable is the location of person and the value is the output of Human Pose Estimation Algorithm.
 
 # Upcoming Feature
 1. Use ML technology to discover the danger of ships by time,boat number,person actions and so on.
 2. Use NN pruning technology to accelerate the inference stage.
 3. Clean the code and try to give a end-to-end solution.
 4. Support more backbone and more model head.  
+
+# visible-L2  
+![image](./images/math.png)
 
 # EDA 
 
@@ -45,12 +49,12 @@ inference.py is used to fast detection without visualization and send the visual
 
 # Video Example
 <div  align="left">    
-  <img src="./images/action_gif1.gif" width = "420" height = "300"  alt="image" align=center />
-  <img src="./images/action_gif2.gif" width = "420" height = "300"  alt="image" align=right />
+  <img src="./images/action_gif1.gif" width = "380" height = "240"  alt="image" align=center />
+  <img src="./images/action_gif2.gif" width = "380" height = "240"  alt="image" align=right />
 </div>
 <br> 
 <div  align="left">    
-  <img src="./images/action_gif3.gif" width = "420" height = "300" alt="image" align=center />
+  <img src="./images/action_gif3.gif" width = "380" height = "240" alt="image" align=center />
   
-  <img src="./images/action_gif4.gif" width = "420" height = "300"  alt="image" align=right />
+  <img src="./images/action_gif4.gif" width = "380" height = "240"  alt="image" align=right />
 </div>
