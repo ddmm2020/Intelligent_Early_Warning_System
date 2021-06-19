@@ -3,9 +3,10 @@
 
 用于检测对船员到岗情况并可以识别7种常见的船员动作
 
+
 # EDA 
 <div  align="center">    
-  <img src="https://github.com/ddmm2020/Intelligent_Early_Warning_System/blob/master/images/image.svg" width = "380" height = "260"   alt="image" align=center />
+  <img src="./images/image.svg" width = "380" height = "260"   alt="image" align=center />
 </div>
 
 
