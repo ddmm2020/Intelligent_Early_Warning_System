@@ -3,5 +3,11 @@
 
 用于检测对船员到岗情况并可以识别7种常见的船员动作
 
-![](./images/action_gif1.gif)
+![image](./images/action_gif1.gif)
+
+![image](./images/action_gif2.gif)
+
+![image](./images/action_gif3.gif)
+
+![image](./images/action_gif4.gif)
 
