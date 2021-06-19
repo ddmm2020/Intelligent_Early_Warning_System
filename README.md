@@ -1,0 +1,2 @@
+# Intelligent_Early_Warning_System
+用于检测对船员到岗情况并可以识别7种常见的船员动作
