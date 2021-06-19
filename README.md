@@ -5,9 +5,9 @@
 
 # EDA 
 
-![image](https://github.com/ddmm2020/Intelligent_Early_Warning_System/blob/master/images/action.png)
+![image](https://github.com/ddmm2020/Intelligent_Early_Warning_System/blob/master/images/action.png){:height="50%" width="50%"}
 
 # Video Example
-![image](./images/action_gif1.gif)![image](./images/action_gif2.gif =100x100)
-![image](./images/action_gif3.gif)![image](./images/action_gif4.gif =100x100)
+![image](./images/action_gif1.gif)![image](./images/action_gif2.gif){:height="50%" width="50%"}
+![image](./images/action_gif3.gif)![image](./images/action_gif4.gif0){:height="50%" width="50%"}
 
