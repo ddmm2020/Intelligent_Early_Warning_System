@@ -4,8 +4,7 @@
 用于检测对船员到岗情况并可以识别7种常见的船员动作
 
 # EDA 
-
-![image](https://github.com/ddmm2020/Intelligent_Early_Warning_System/blob/master/images/action.png){:height="50%" width="50%"}
+ <img src="https://github.com/ddmm2020/Intelligent_Early_Warning_System/blob/master/images/action.png" width = "300" height = "200" alt="image" align=center />
 
 # Video Example
 ![image](./images/action_gif1.gif)![image](./images/action_gif2.gif){:height="50%" width="50%"}
