@@ -11,17 +11,12 @@
 
 # Video Example
 <div  align="left">    
-  <img src="./images/action_gif1.gif" width = "380" height = "235"  alt="image" align=center />
-</div>
-
-<div  align="right">    
+  <img src="./images/action_gif1.gif" width = "380" height = "235"  alt="image" align=left />
   <img src="./images/action_gif2.gif" width = "380" height = "235"  alt="image" align=center />
 </div>
-
+<br> 
 <div  align="left">    
-  <img src="./images/action_gif3.gif" width = "380" height = "235"  alt="image" align=center />
-</div>
-
-<div  align="right">    
+  <img src="./images/action_gif3.gif" width = "380" height = "235"  alt="image" align=left />
+  
   <img src="./images/action_gif4.gif" width = "380" height = "235"  alt="image" align=center />
 </div>
