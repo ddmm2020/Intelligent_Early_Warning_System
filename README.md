@@ -8,6 +8,6 @@
 ![image](https://github.com/ddmm2020/Intelligent_Early_Warning_System/blob/master/images/action.png)
 
 # Video Example
-![image](./images/action_gif1.gif)![image](./images/action_gif2.gif)
-![image](./images/action_gif3.gif)![image](./images/action_gif4.gif)
+![image](./images/action_gif1.gif)![image](./images/action_gif2.gif =100x100)
+![image](./images/action_gif3.gif)![image](./images/action_gif4.gif =100x100)
 
