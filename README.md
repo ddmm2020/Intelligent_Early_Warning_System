@@ -11,7 +11,7 @@
 
 # Video Example
 <div  align="left">    
-  <img src="./images/action_gif2.gif" width = "480" height = "235"  alt="image" align=center />
+  <img src="./images/action_gif2.gif" width = "380" height = "235"  alt="image" align=center />
 </div>
 ![image](./images/action_gif1.gif)![image](./images/action_gif2.gif){:height="50%" width="50%"}
 ![image](./images/action_gif3.gif)![image](./images/action_gif4.gif0){:height="50%" width="50%"}
