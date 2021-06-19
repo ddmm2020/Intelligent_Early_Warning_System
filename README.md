@@ -5,7 +5,7 @@
 
 # EDA 
 <div  align="center">    
-  <img src="https://github.com/ddmm2020/Intelligent_Early_Warning_System/blob/master/images/action.png" width = "300" height = "200" alt="image" align=center />
+  <img src="https://github.com/ddmm2020/Intelligent_Early_Warning_System/blob/master/images/action.png"  alt="image" align=center />
 </div>
 
 
