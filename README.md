@@ -6,7 +6,7 @@ This project provides early warning by analyzing the action of people in the shi
 According to statistics of IMO, in the past ten years, most ship accidents were caused by human factors.So we have this idea to ensure the navigation safety by AI techonoly.
 Although it is not sound and cannot be used on a commercial environment now,it is an excellent opportunity to explore the usage of computer vision based on Deep CNN.At the same time, it can help me to understand the performance of hundreds Net architectures of different papers.
 
-The code of this projects is dirty now.I may clean the code after I find my graduate mentor.:muscle:	:muscle:	:muscle:	
+The code of this project is dirty now.I may clean the code after I find my graduate mentor.:muscle:	:muscle:	:muscle:	
 # Requirements:
 PyTorch 1.4 +  
 torchvision 0.6.0 +   
