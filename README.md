@@ -43,12 +43,12 @@ inference.py is used to fast detection without visualization and send the visual
 
 # Video Example
 <div  align="left">    
-  <img src="./images/action_gif1.gif" width = "450" height = "315"  alt="image" align=center />
-  <img src="./images/action_gif2.gif" width = "450" height = "315"  alt="image" align=right />
+  <img src="./images/action_gif1.gif" width = "420" height = "300"  alt="image" align=center />
+  <img src="./images/action_gif2.gif" width = "420" height = "300"  alt="image" align=right />
 </div>
 <br> 
 <div  align="left">    
-  <img src="./images/action_gif3.gif" width = "450" height = "315" alt="image" align=center />
+  <img src="./images/action_gif3.gif" width = "420" height = "300" alt="image" align=center />
   
-  <img src="./images/action_gif4.gif" width = "450" height = "315"  alt="image" align=right />
+  <img src="./images/action_gif4.gif" width = "420" height = "300"  alt="image" align=right />
 </div>
