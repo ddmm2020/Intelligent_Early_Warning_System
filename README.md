@@ -8,28 +8,28 @@ Although it is not sound and cannot be used on a commercial environment now,it i
 
 The code of this projects is dirty now.I may clean the code after I find my graduate mentor.:muscle:	:muscle:	:muscle:	
 # Requirements:
-PyTorch 1.4 +
-torchvision 0.6.0 + 
-OpenCV
-CUDA >= 9.0
+PyTorch 1.4 +  
+torchvision 0.6.0 +   
+OpenCV  
+CUDA >= 9.0  
 
-if you want to try remote monitoring
-ffmpeg is necessary and an OSS Instance of Cloud Server is required.
+if you want to try remote monitoring  
+ffmpeg is necessary and an OSS Instance of Cloud Server is required.  
 
 # Running
-collect_human_pose_label.py is used to collect the action information by Human Pose Estimation Algorithm.
-demo.py is used to show person detection,Instance segmentation and Action analyse algorithm of my system.
-inference.py is used to fast detection without visualization and send the visual information by TCP/IP or UDP.
+collect_human_pose_label.py is used to collect the action information by Human Pose Estimation Algorithm.  
+demo.py is used to show person detection,Instance segmentation and Action analyse algorithm of my system.  
+inference.py is used to fast detection without visualization and send the visual information by TCP/IP or UDP.  
 
 # Current Feature
-1. Person detection and human instance segmentation.
-2. Use Human Pose Estimation Algorithm to generate template actions.
-3. Quantify the difference between two actions by visible-L2 which is I proposed to slove the problem of recognition of human actions.
-4. Analyze the crew is on the right position or not.
-5. Track the movement of people by MaskIOU.
-6. Use segmentation technology to capture valuable pixels and reduce the data which is transported by network.
-7. Use RLE(run-length encoding) to save person mask image.
-8. Use HashTable to match the template action faster,the key of HashTable is the location of person and the value is the output of Human Pose Estimation Algorithm.
+1. Person detection and human instance segmentation.  
+2. Use Human Pose Estimation Algorithm to generate template actions.  
+3. Quantify the difference between two actions by visible-L2 which is I proposed to slove the problem of recognition of human actions.  
+4. Analyze the crew is on the right position or not.  
+5. Track the movement of people by MaskIOU.  
+6. Use segmentation technology to capture valuable pixels and reduce the data which is transported by network.  
+7. Use RLE(run-length encoding) to save person mask image.  
+8. Use HashTable to match the template action faster,the key of HashTable is the location of person and the value is the output of Human Pose Estimation Algorithm.  
 
 # Upcoming Feature
 1. Use ML technology to discover the danger of ships by time,boat number,person actions and so on.
