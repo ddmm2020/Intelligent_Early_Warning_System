@@ -24,7 +24,7 @@ inference.py is used to fast detection without visualization and send the visual
 # Current Feature
 1. Person detection and human instance segmentation.  
 2. Use Human Pose Estimation Algorithm to generate template actions.  
-3. Quantify the difference between two actions by visible-L2 which is I proposed to slove the problem of recognition of human actions.  
+3. Quantify the difference between two actions by visible-L2 which is I proposed to slove the problem of recognition of human actions.You can see the detail of visible-L2 in the next section.:satisfied::satisfied:  
 4. Analyze the crew is on the right position or not.  
 5. Track the movement of people by MaskIOU.  
 6. Use segmentation technology to capture valuable pixels and reduce the data which is transported by network.  
