@@ -38,23 +38,23 @@ inference.py is used to fast detection without visualization and send the visual
 4. Support more backbone and more model head.  
 
 # visible-L2  
-![image](./images/math.png)
+![image](https://gitee.com/ddmm2020/save-github-images/blob/master/math.png)
 
 # EDA 
 
 <div  align="center">    
-  <img src="./images/image.svg" width = "380" height = "260"   alt="image" align=center />
+  <img src="https://gitee.com/ddmm2020/save-github-images/blob/master/image.svg" width = "380" height = "260"   alt="image" align=center />
 </div>
 
 
 # Video Example
 <div  align="left">    
-  <img src="./images/action_gif1.gif" width = "380" height = "240"  alt="image" align=center />
-  <img src="./images/action_gif2.gif" width = "380" height = "240"  alt="image" align=right />
+  <img src="https://gitee.com/ddmm2020/save-github-images/blob/master/action_gif1.gif" width = "380" height = "240"  alt="image" align=center />
+  <img src="https://gitee.com/ddmm2020/save-github-images/blob/master/action_gif2.gif" width = "380" height = "240"  alt="image" align=right />
 </div>
 <br> 
 <div  align="left">    
-  <img src="./images/action_gif3.gif" width = "380" height = "240" alt="image" align=center />
+  <img src="https://gitee.com/ddmm2020/save-github-images/blob/master/action_gif3.gif" width = "380" height = "240" alt="image" align=center />
   
-  <img src="./images/action_gif4.gif" width = "380" height = "240"  alt="image" align=right />
+  <img src="https://gitee.com/ddmm2020/save-github-images/blob/master/action_gif4.gif" width = "380" height = "240"  alt="image" align=right />
 </div>
