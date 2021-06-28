@@ -70,7 +70,7 @@ def sftp_upload_file(host, user, password, server_path, local_path, timeout=10):
 def upload_oss_file(key):
     endpoint = 'oss-cn-beijing.aliyuncs.com'
 
-    auth = oss2.Auth('L****Ff**Konug**********', 'R****3D0nh**MJ8iPF4c**********')
+    auth = oss2.Auth('L****Ff**Konug**********', 'R****3D*nh**MJ8iPF4c**********')
     bucket = oss2.Bucket(auth, endpoint, 'edu-squash')
     current_fold = time.strftime('%Y-%m-%d', time.localtime())
     current_file_path = "69/"+key
