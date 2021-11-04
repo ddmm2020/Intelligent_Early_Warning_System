@@ -34,7 +34,7 @@ inference.py is used to fast detection without visualization and send the visual
 # Upcoming Feature
 1. Use ML technology to discover the danger of ships by time,boat number,person actions and so on.
 2. Use NN pruning technology to accelerate the inference stage.
-3. Clean the code and try to give a end-to-end solution.
+3. Clean the code and try to give an end-to-end solution.
 4. Support more backbone and more model head.  
 
 # visible-L2  
